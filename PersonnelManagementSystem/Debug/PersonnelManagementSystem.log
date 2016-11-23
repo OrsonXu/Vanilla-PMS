@@ -1,0 +1,161 @@
+﻿Build started 11/23/2016 22:02:54.
+     1>Project "C:\Users\orson\Desktop\tsinghua myself\ProjectRepo\PersonnelManagementSystem\PersonnelManagementSystem\PersonnelManagementSystem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PersonnelManagementSystem.cpp stdafx.cpp
+         stdafx.cpp
+         PersonnelManagementSystem.cpp
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(71): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(81): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(137): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(152): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(193): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(197): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(203): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(218): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(235): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(268): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(275): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(288): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(128): warning C4101: 'l' : unreferenced local variable
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(128): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(346): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(299): warning C4101: 'goal' : unreferenced local variable
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(298): warning C4101: 'judge' : unreferenced local variable
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(372): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(410): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(443): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(447): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(458): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(468): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(426): warning C4101: 'compare' : unreferenced local variable
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(490): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(521): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(526): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(546): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(579): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(581): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(584): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(593): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(614): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(631): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(666): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(672): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(693): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(694): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(696): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(703): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(704): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(706): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(709): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(710): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(712): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(715): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(749): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(755): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(776): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(777): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(779): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(786): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(787): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(789): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(792): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(793): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(795): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(798): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(808): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\orson\desktop\tsinghua myself\projectrepo\personnelmanagementsystem\personnelmanagementsystem\personnelmanagementsystem.cpp(843): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Generating Code...
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\orson\Desktop\tsinghua myself\ProjectRepo\PersonnelManagementSystem\Debug\PersonnelManagementSystem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\orson\Desktop\tsinghua myself\ProjectRepo\PersonnelManagementSystem\Debug\PersonnelManagementSystem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\orson\Desktop\tsinghua myself\ProjectRepo\PersonnelManagementSystem\Debug\PersonnelManagementSystem.lib" /MACHINE:X86 Debug\PersonnelManagementSystem.obj
+         Debug\stdafx.obj
+         PersonnelManagementSystem.vcxproj -> C:\Users\orson\Desktop\tsinghua myself\ProjectRepo\PersonnelManagementSystem\Debug\PersonnelManagementSystem.exe
+     1>Done Building Project "C:\Users\orson\Desktop\tsinghua myself\ProjectRepo\PersonnelManagementSystem\PersonnelManagementSystem\PersonnelManagementSystem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
